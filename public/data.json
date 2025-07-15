@@ -1,157 +1,1601 @@
 [
   {
     "matchId": "001",
-    "match": "Philadelphia Phillies vs Atlanta Braves",
+    "match": "Ajax vs Juventus",
     "odds": {
       "3Way Result": {
-        "Home": 1.82,
-        "Draw": 8.00,
-        "Away": 2.22
+        "Home": 2.27,
+        "Draw": 3.94,
+        "Away": 3.78
       },
-      "Asian Handicap First Half": {
-        "Home -1": 4.55,
-        "Away -1": 1.13,
-        "Home +0": 1.41,
-        "Away +0": 2.60
+      "Asian Handicap": {
+        "Home -1": 2.86,
+        "Away -1": 4.97,
+        "Home +0.5": 3.67,
+        "Away +0.5": 3.54
+      },
+      "Total Goals": {
+        "Over 2.5": 3.26,
+        "Under 2.5": 3.16,
+        "Over 3.5": 4.19,
+        "Under 3.5": 4.21
+      },
+      "First Half Result": {
+        "Home": 3.27,
+        "Draw": 2.53,
+        "Away": 1.54
+      },
+      "BTTS": {
+        "Yes": 2.51,
+        "No": 5.17
       }
     }
   },
   {
     "matchId": "002",
-    "match": "Liverpool vs Manchester United",
+    "match": "Arsenal vs Chelsea",
     "odds": {
       "3Way Result": {
-        "Home": 1.65,
-        "Draw": 4.20,
-        "Away": 3.80
+        "Home": 2.5,
+        "Draw": 4.11,
+        "Away": 4.57
       },
-      "Total - Away": {
-        "Over 1.5": 2.67,
-        "Under 1.5": 1.38,
-        "Over 2": 5.50,
-        "Under 2": 1.08
+      "Asian Handicap": {
+        "Home -1": 1.18,
+        "Away -1": 5.36,
+        "Home +0.5": 1.2,
+        "Away +0.5": 5.87
+      },
+      "Total Goals": {
+        "Over 2.5": 5.45,
+        "Under 2.5": 3.33,
+        "Over 3.5": 3.62,
+        "Under 3.5": 2.57
+      },
+      "First Half Result": {
+        "Home": 2.1,
+        "Draw": 4.78,
+        "Away": 3.85
+      },
+      "BTTS": {
+        "Yes": 3.83,
+        "No": 4.15
       }
     }
   },
   {
     "matchId": "003",
-    "match": "Barcelona vs Real Madrid",
+    "match": "Barcelona vs Inter Milan",
     "odds": {
       "3Way Result": {
-        "Home": 2.10,
-        "Draw": 3.60,
-        "Away": 2.80
+        "Home": 5.78,
+        "Draw": 3.22,
+        "Away": 4.77
       },
-      "Asian Handicap First Half": {
-        "Home -0.25": 1.95,
-        "Away +0.25": 1.95
+      "Asian Handicap": {
+        "Home -1": 2.81,
+        "Away -1": 2.19,
+        "Home +0.5": 2.58,
+        "Away +0.5": 2.89
+      },
+      "Total Goals": {
+        "Over 2.5": 1.48,
+        "Under 2.5": 2.19,
+        "Over 3.5": 3.44,
+        "Under 3.5": 5.63
+      },
+      "First Half Result": {
+        "Home": 5.72,
+        "Draw": 4.66,
+        "Away": 5.73
+      },
+      "BTTS": {
+        "Yes": 5.23,
+        "No": 1.42
       }
     }
   },
   {
     "matchId": "004",
-    "match": "Bayern Munich vs Dortmund",
+    "match": "Inter Milan vs Leicester",
     "odds": {
       "3Way Result": {
-        "Home": 1.55,
-        "Draw": 4.50,
-        "Away": 4.80
+        "Home": 4.64,
+        "Draw": 3.51,
+        "Away": 2.18
       },
-      "Handicap Result 1st Half": {
-        "Home -1": 5.90,
-        "Away -1": 1.49,
-        "Draw": 3.38
+      "Asian Handicap": {
+        "Home -1": 5.36,
+        "Away -1": 4.76,
+        "Home +0.5": 1.86,
+        "Away +0.5": 3.21
+      },
+      "Total Goals": {
+        "Over 2.5": 4.72,
+        "Under 2.5": 3.78,
+        "Over 3.5": 3.4,
+        "Under 3.5": 2.68
+      },
+      "First Half Result": {
+        "Home": 3.68,
+        "Draw": 1.42,
+        "Away": 4.87
+      },
+      "BTTS": {
+        "Yes": 3.55,
+        "No": 1.65
       }
     }
   },
   {
     "matchId": "005",
-    "match": "Chelsea vs Arsenal",
+    "match": "Liverpool vs AC Milan",
     "odds": {
       "3Way Result": {
-        "Home": 2.30,
-        "Draw": 3.10,
-        "Away": 2.40
+        "Home": 3.7,
+        "Draw": 5.53,
+        "Away": 2.97
       },
-      "Total - Away": {
-        "Over 1": 1.78,
-        "Under 1": 1.88
+      "Asian Handicap": {
+        "Home -1": 2.34,
+        "Away -1": 5.08,
+        "Home +0.5": 5.61,
+        "Away +0.5": 3.66
+      },
+      "Total Goals": {
+        "Over 2.5": 5.52,
+        "Under 2.5": 1.25,
+        "Over 3.5": 3.94,
+        "Under 3.5": 4.07
+      },
+      "First Half Result": {
+        "Home": 1.83,
+        "Draw": 2.16,
+        "Away": 2.93
+      },
+      "BTTS": {
+        "Yes": 5.24,
+        "No": 4.16
       }
     }
   },
   {
     "matchId": "006",
-    "match": "Juventus vs Inter Milan",
+    "match": "Dortmund vs Chelsea",
     "odds": {
       "3Way Result": {
-        "Home": 2.05,
-        "Draw": 3.25,
-        "Away": 3.10
+        "Home": 2.23,
+        "Draw": 5.27,
+        "Away": 4.67
       },
-      "Asian Handicap First Half": {
-        "Home +0.25": 1.85,
-        "Away -0.25": 2.00
+      "Asian Handicap": {
+        "Home -1": 3.44,
+        "Away -1": 3.46,
+        "Home +0.5": 1.55,
+        "Away +0.5": 5.04
+      },
+      "Total Goals": {
+        "Over 2.5": 4.32,
+        "Under 2.5": 3.16,
+        "Over 3.5": 1.45,
+        "Under 3.5": 2.89
+      },
+      "First Half Result": {
+        "Home": 2.1,
+        "Draw": 1.45,
+        "Away": 5.61
+      },
+      "BTTS": {
+        "Yes": 4.27,
+        "No": 4.45
       }
     }
   },
   {
     "matchId": "007",
-    "match": "PSG vs Marseille",
+    "match": "Roma vs Dortmund",
     "odds": {
       "3Way Result": {
-        "Home": 1.45,
-        "Draw": 4.80,
-        "Away": 6.00
+        "Home": 4.79,
+        "Draw": 1.21,
+        "Away": 5.77
       },
-      "Handicap Result 1st Half": {
-        "Home -1": 3.50,
-        "Draw": 2.90,
-        "Away -1": 2.10
+      "Asian Handicap": {
+        "Home -1": 5.88,
+        "Away -1": 3.47,
+        "Home +0.5": 2.96,
+        "Away +0.5": 3.93
+      },
+      "Total Goals": {
+        "Over 2.5": 2.02,
+        "Under 2.5": 3.07,
+        "Over 3.5": 3.52,
+        "Under 3.5": 1.97
+      },
+      "First Half Result": {
+        "Home": 4.88,
+        "Draw": 2.39,
+        "Away": 4.55
+      },
+      "BTTS": {
+        "Yes": 2.1,
+        "No": 5.07
       }
     }
   },
   {
     "matchId": "008",
-    "match": "Ajax vs Feyenoord",
+    "match": "Inter Milan vs Roma",
     "odds": {
       "3Way Result": {
-        "Home": 2.00,
-        "Draw": 3.20,
-        "Away": 3.50
+        "Home": 2.39,
+        "Draw": 5.48,
+        "Away": 5.95
       },
-      "Asian Handicap First Half": {
-        "Home -0.5": 2.00,
-        "Away +0.5": 1.85
+      "Asian Handicap": {
+        "Home -1": 5.29,
+        "Away -1": 3.88,
+        "Home +0.5": 2.31,
+        "Away +0.5": 3.57
+      },
+      "Total Goals": {
+        "Over 2.5": 2.51,
+        "Under 2.5": 2.63,
+        "Over 3.5": 2.13,
+        "Under 3.5": 1.35
+      },
+      "First Half Result": {
+        "Home": 3.33,
+        "Draw": 4.59,
+        "Away": 4.52
+      },
+      "BTTS": {
+        "Yes": 2.03,
+        "No": 5.96
       }
     }
   },
   {
     "matchId": "009",
-    "match": "AC Milan vs Napoli",
+    "match": "Dortmund vs Leicester",
     "odds": {
       "3Way Result": {
-        "Home": 2.25,
-        "Draw": 3.10,
-        "Away": 2.90
+        "Home": 1.46,
+        "Draw": 4.29,
+        "Away": 1.82
       },
-      "Total - Away": {
-        "Over 1.5": 2.70,
-        "Under 1.5": 1.30
+      "Asian Handicap": {
+        "Home -1": 3.82,
+        "Away -1": 3.47,
+        "Home +0.5": 2.57,
+        "Away +0.5": 1.39
+      },
+      "Total Goals": {
+        "Over 2.5": 4.46,
+        "Under 2.5": 4.62,
+        "Over 3.5": 4.14,
+        "Under 3.5": 3.31
+      },
+      "First Half Result": {
+        "Home": 2.16,
+        "Draw": 4.61,
+        "Away": 4.51
+      },
+      "BTTS": {
+        "Yes": 3.08,
+        "No": 1.25
       }
     }
   },
   {
     "matchId": "010",
-    "match": "Tottenham vs Manchester City",
+    "match": "Dortmund vs Arsenal",
     "odds": {
       "3Way Result": {
-        "Home": 3.10,
-        "Draw": 3.50,
-        "Away": 1.90
+        "Home": 1.33,
+        "Draw": 2.14,
+        "Away": 4.13
       },
-      "Asian Handicap First Half": {
-        "Home +0.5": 1.60,
-        "Away -0.5": 2.30
+      "Asian Handicap": {
+        "Home -1": 2.39,
+        "Away -1": 3.23,
+        "Home +0.5": 3.96,
+        "Away +0.5": 3.85
+      },
+      "Total Goals": {
+        "Over 2.5": 1.78,
+        "Under 2.5": 4.55,
+        "Over 3.5": 3.39,
+        "Under 3.5": 4.27
+      },
+      "First Half Result": {
+        "Home": 1.98,
+        "Draw": 1.2,
+        "Away": 1.61
+      },
+      "BTTS": {
+        "Yes": 2.99,
+        "No": 4.56
+      }
+    }
+  },
+  {
+    "matchId": "011",
+    "match": "Arsenal vs Liverpool",
+    "odds": {
+      "3Way Result": {
+        "Home": 1.55,
+        "Draw": 4.71,
+        "Away": 1.23
+      },
+      "Asian Handicap": {
+        "Home -1": 5.93,
+        "Away -1": 4.14,
+        "Home +0.5": 2.22,
+        "Away +0.5": 1.64
+      },
+      "Total Goals": {
+        "Over 2.5": 4.69,
+        "Under 2.5": 3.52,
+        "Over 3.5": 1.11,
+        "Under 3.5": 5.57
+      },
+      "First Half Result": {
+        "Home": 3.03,
+        "Draw": 1.82,
+        "Away": 5.96
+      },
+      "BTTS": {
+        "Yes": 2.99,
+        "No": 4.97
+      }
+    }
+  },
+  {
+    "matchId": "012",
+    "match": "PSG vs Inter Milan",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.55,
+        "Draw": 1.41,
+        "Away": 4.72
+      },
+      "Asian Handicap": {
+        "Home -1": 1.34,
+        "Away -1": 1.57,
+        "Home +0.5": 5.36,
+        "Away +0.5": 1.41
+      },
+      "Total Goals": {
+        "Over 2.5": 5.51,
+        "Under 2.5": 5.49,
+        "Over 3.5": 1.99,
+        "Under 3.5": 4.34
+      },
+      "First Half Result": {
+        "Home": 1.56,
+        "Draw": 3.74,
+        "Away": 5.27
+      },
+      "BTTS": {
+        "Yes": 5.19,
+        "No": 2.68
+      }
+    }
+  },
+  {
+    "matchId": "013",
+    "match": "Manchester United vs Atletico Madrid",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.8,
+        "Draw": 3.66,
+        "Away": 5.7
+      },
+      "Asian Handicap": {
+        "Home -1": 3.68,
+        "Away -1": 5.06,
+        "Home +0.5": 4.88,
+        "Away +0.5": 4.3
+      },
+      "Total Goals": {
+        "Over 2.5": 1.42,
+        "Under 2.5": 1.31,
+        "Over 3.5": 5.51,
+        "Under 3.5": 3.52
+      },
+      "First Half Result": {
+        "Home": 2.86,
+        "Draw": 5.2,
+        "Away": 5.76
+      },
+      "BTTS": {
+        "Yes": 3.6,
+        "No": 3.81
+      }
+    }
+  },
+  {
+    "matchId": "014",
+    "match": "AC Milan vs Manchester United",
+    "odds": {
+      "3Way Result": {
+        "Home": 4.28,
+        "Draw": 3.51,
+        "Away": 1.95
+      },
+      "Asian Handicap": {
+        "Home -1": 2.23,
+        "Away -1": 5.3,
+        "Home +0.5": 3.35,
+        "Away +0.5": 5.84
+      },
+      "Total Goals": {
+        "Over 2.5": 4.17,
+        "Under 2.5": 4.42,
+        "Over 3.5": 2.58,
+        "Under 3.5": 4.79
+      },
+      "First Half Result": {
+        "Home": 3.59,
+        "Draw": 5.26,
+        "Away": 1.72
+      },
+      "BTTS": {
+        "Yes": 4.31,
+        "No": 4.95
+      }
+    }
+  },
+  {
+    "matchId": "015",
+    "match": "PSG vs Tottenham",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.71,
+        "Draw": 4.24,
+        "Away": 2.87
+      },
+      "Asian Handicap": {
+        "Home -1": 2.3,
+        "Away -1": 3.48,
+        "Home +0.5": 1.58,
+        "Away +0.5": 3.78
+      },
+      "Total Goals": {
+        "Over 2.5": 5.12,
+        "Under 2.5": 1.86,
+        "Over 3.5": 1.18,
+        "Under 3.5": 1.98
+      },
+      "First Half Result": {
+        "Home": 2.92,
+        "Draw": 5.14,
+        "Away": 5.34
+      },
+      "BTTS": {
+        "Yes": 3.82,
+        "No": 3.81
+      }
+    }
+  },
+  {
+    "matchId": "016",
+    "match": "Juventus vs Real Madrid",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.48,
+        "Draw": 5.86,
+        "Away": 5.73
+      },
+      "Asian Handicap": {
+        "Home -1": 2.02,
+        "Away -1": 1.98,
+        "Home +0.5": 3.53,
+        "Away +0.5": 1.21
+      },
+      "Total Goals": {
+        "Over 2.5": 5.36,
+        "Under 2.5": 5.86,
+        "Over 3.5": 1.3,
+        "Under 3.5": 2.83
+      },
+      "First Half Result": {
+        "Home": 1.55,
+        "Draw": 5.94,
+        "Away": 3.82
+      },
+      "BTTS": {
+        "Yes": 3.89,
+        "No": 4.98
+      }
+    }
+  },
+  {
+    "matchId": "017",
+    "match": "Chelsea vs Atletico Madrid",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.55,
+        "Draw": 5.84,
+        "Away": 5.9
+      },
+      "Asian Handicap": {
+        "Home -1": 5.2,
+        "Away -1": 3.11,
+        "Home +0.5": 3.76,
+        "Away +0.5": 1.18
+      },
+      "Total Goals": {
+        "Over 2.5": 2.38,
+        "Under 2.5": 5.62,
+        "Over 3.5": 3.58,
+        "Under 3.5": 1.96
+      },
+      "First Half Result": {
+        "Home": 5.59,
+        "Draw": 3.7,
+        "Away": 1.78
+      },
+      "BTTS": {
+        "Yes": 4.06,
+        "No": 1.47
+      }
+    }
+  },
+  {
+    "matchId": "018",
+    "match": "Manchester City vs Juventus",
+    "odds": {
+      "3Way Result": {
+        "Home": 3.65,
+        "Draw": 3.26,
+        "Away": 3.37
+      },
+      "Asian Handicap": {
+        "Home -1": 4.32,
+        "Away -1": 3.33,
+        "Home +0.5": 5.85,
+        "Away +0.5": 3.9
+      },
+      "Total Goals": {
+        "Over 2.5": 5.6,
+        "Under 2.5": 4.36,
+        "Over 3.5": 5.54,
+        "Under 3.5": 5.94
+      },
+      "First Half Result": {
+        "Home": 3.16,
+        "Draw": 1.34,
+        "Away": 2.76
+      },
+      "BTTS": {
+        "Yes": 3.23,
+        "No": 2.93
+      }
+    }
+  },
+  {
+    "matchId": "019",
+    "match": "Atletico Madrid vs Liverpool",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.45,
+        "Draw": 5.83,
+        "Away": 5.52
+      },
+      "Asian Handicap": {
+        "Home -1": 5.14,
+        "Away -1": 5.42,
+        "Home +0.5": 1.33,
+        "Away +0.5": 2.07
+      },
+      "Total Goals": {
+        "Over 2.5": 3.37,
+        "Under 2.5": 5.52,
+        "Over 3.5": 2.58,
+        "Under 3.5": 5.33
+      },
+      "First Half Result": {
+        "Home": 2.81,
+        "Draw": 5.01,
+        "Away": 5.8
+      },
+      "BTTS": {
+        "Yes": 5.83,
+        "No": 3.29
+      }
+    }
+  },
+  {
+    "matchId": "020",
+    "match": "Chelsea vs Barcelona",
+    "odds": {
+      "3Way Result": {
+        "Home": 1.26,
+        "Draw": 4.59,
+        "Away": 2.23
+      },
+      "Asian Handicap": {
+        "Home -1": 5.95,
+        "Away -1": 2.98,
+        "Home +0.5": 2.5,
+        "Away +0.5": 5.24
+      },
+      "Total Goals": {
+        "Over 2.5": 5.47,
+        "Under 2.5": 1.27,
+        "Over 3.5": 3.61,
+        "Under 3.5": 1.74
+      },
+      "First Half Result": {
+        "Home": 4.46,
+        "Draw": 5.39,
+        "Away": 5.91
+      },
+      "BTTS": {
+        "Yes": 1.79,
+        "No": 1.57
+      }
+    }
+  },
+  {
+    "matchId": "021",
+    "match": "Leicester vs Porto",
+    "odds": {
+      "3Way Result": {
+        "Home": 4.19,
+        "Draw": 4.92,
+        "Away": 4.73
+      },
+      "Asian Handicap": {
+        "Home -1": 5.29,
+        "Away -1": 3.64,
+        "Home +0.5": 4.9,
+        "Away +0.5": 5.8
+      },
+      "Total Goals": {
+        "Over 2.5": 2.43,
+        "Under 2.5": 2.32,
+        "Over 3.5": 2.6,
+        "Under 3.5": 2.6
+      },
+      "First Half Result": {
+        "Home": 5.42,
+        "Draw": 2.75,
+        "Away": 5.94
+      },
+      "BTTS": {
+        "Yes": 5.78,
+        "No": 5.0
+      }
+    }
+  },
+  {
+    "matchId": "022",
+    "match": "Porto vs Inter Milan",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.64,
+        "Draw": 4.8,
+        "Away": 3.84
+      },
+      "Asian Handicap": {
+        "Home -1": 5.75,
+        "Away -1": 1.81,
+        "Home +0.5": 4.47,
+        "Away +0.5": 4.37
+      },
+      "Total Goals": {
+        "Over 2.5": 2.81,
+        "Under 2.5": 3.85,
+        "Over 3.5": 5.42,
+        "Under 3.5": 5.78
+      },
+      "First Half Result": {
+        "Home": 4.87,
+        "Draw": 4.28,
+        "Away": 1.42
+      },
+      "BTTS": {
+        "Yes": 4.95,
+        "No": 5.01
+      }
+    }
+  },
+  {
+    "matchId": "023",
+    "match": "Inter Milan vs AC Milan",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.09,
+        "Draw": 2.44,
+        "Away": 5.73
+      },
+      "Asian Handicap": {
+        "Home -1": 3.8,
+        "Away -1": 2.17,
+        "Home +0.5": 3.66,
+        "Away +0.5": 4.93
+      },
+      "Total Goals": {
+        "Over 2.5": 1.46,
+        "Under 2.5": 2.29,
+        "Over 3.5": 2.47,
+        "Under 3.5": 5.76
+      },
+      "First Half Result": {
+        "Home": 2.53,
+        "Draw": 2.99,
+        "Away": 4.17
+      },
+      "BTTS": {
+        "Yes": 2.68,
+        "No": 3.02
+      }
+    }
+  },
+  {
+    "matchId": "024",
+    "match": "Roma vs Barcelona",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.86,
+        "Draw": 5.27,
+        "Away": 4.78
+      },
+      "Asian Handicap": {
+        "Home -1": 5.34,
+        "Away -1": 4.45,
+        "Home +0.5": 2.33,
+        "Away +0.5": 3.41
+      },
+      "Total Goals": {
+        "Over 2.5": 4.38,
+        "Under 2.5": 1.59,
+        "Over 3.5": 3.31,
+        "Under 3.5": 3.06
+      },
+      "First Half Result": {
+        "Home": 4.87,
+        "Draw": 4.61,
+        "Away": 4.28
+      },
+      "BTTS": {
+        "Yes": 4.76,
+        "No": 2.74
+      }
+    }
+  },
+  {
+    "matchId": "025",
+    "match": "Tottenham vs Atletico Madrid",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.56,
+        "Draw": 5.28,
+        "Away": 4.2
+      },
+      "Asian Handicap": {
+        "Home -1": 1.17,
+        "Away -1": 4.7,
+        "Home +0.5": 2.72,
+        "Away +0.5": 1.94
+      },
+      "Total Goals": {
+        "Over 2.5": 5.05,
+        "Under 2.5": 5.53,
+        "Over 3.5": 3.39,
+        "Under 3.5": 2.28
+      },
+      "First Half Result": {
+        "Home": 1.6,
+        "Draw": 4.33,
+        "Away": 4.53
+      },
+      "BTTS": {
+        "Yes": 4.35,
+        "No": 1.2
+      }
+    }
+  },
+  {
+    "matchId": "026",
+    "match": "Leicester vs Manchester United",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.98,
+        "Draw": 4.17,
+        "Away": 5.5
+      },
+      "Asian Handicap": {
+        "Home -1": 4.13,
+        "Away -1": 2.31,
+        "Home +0.5": 1.13,
+        "Away +0.5": 5.36
+      },
+      "Total Goals": {
+        "Over 2.5": 4.98,
+        "Under 2.5": 3.77,
+        "Over 3.5": 5.44,
+        "Under 3.5": 1.31
+      },
+      "First Half Result": {
+        "Home": 1.67,
+        "Draw": 2.94,
+        "Away": 5.6
+      },
+      "BTTS": {
+        "Yes": 5.77,
+        "No": 5.25
+      }
+    }
+  },
+  {
+    "matchId": "027",
+    "match": "Juventus vs Roma",
+    "odds": {
+      "3Way Result": {
+        "Home": 3.62,
+        "Draw": 1.15,
+        "Away": 2.08
+      },
+      "Asian Handicap": {
+        "Home -1": 3.9,
+        "Away -1": 3.47,
+        "Home +0.5": 3.01,
+        "Away +0.5": 3.98
+      },
+      "Total Goals": {
+        "Over 2.5": 3.93,
+        "Under 2.5": 1.72,
+        "Over 3.5": 3.21,
+        "Under 3.5": 4.22
+      },
+      "First Half Result": {
+        "Home": 4.67,
+        "Draw": 3.74,
+        "Away": 4.94
+      },
+      "BTTS": {
+        "Yes": 1.11,
+        "No": 4.86
+      }
+    }
+  },
+  {
+    "matchId": "028",
+    "match": "Ajax vs Barcelona",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.92,
+        "Draw": 1.25,
+        "Away": 4.22
+      },
+      "Asian Handicap": {
+        "Home -1": 2.31,
+        "Away -1": 1.73,
+        "Home +0.5": 5.8,
+        "Away +0.5": 5.72
+      },
+      "Total Goals": {
+        "Over 2.5": 1.22,
+        "Under 2.5": 2.2,
+        "Over 3.5": 1.29,
+        "Under 3.5": 5.62
+      },
+      "First Half Result": {
+        "Home": 5.75,
+        "Draw": 5.09,
+        "Away": 3.17
+      },
+      "BTTS": {
+        "Yes": 4.58,
+        "No": 3.54
+      }
+    }
+  },
+  {
+    "matchId": "029",
+    "match": "PSG vs Liverpool",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.07,
+        "Draw": 5.89,
+        "Away": 4.49
+      },
+      "Asian Handicap": {
+        "Home -1": 2.04,
+        "Away -1": 4.42,
+        "Home +0.5": 1.88,
+        "Away +0.5": 4.9
+      },
+      "Total Goals": {
+        "Over 2.5": 2.3,
+        "Under 2.5": 1.14,
+        "Over 3.5": 2.45,
+        "Under 3.5": 5.87
+      },
+      "First Half Result": {
+        "Home": 4.89,
+        "Draw": 2.57,
+        "Away": 4.3
+      },
+      "BTTS": {
+        "Yes": 3.41,
+        "No": 1.15
+      }
+    }
+  },
+  {
+    "matchId": "030",
+    "match": "Dortmund vs Porto",
+    "odds": {
+      "3Way Result": {
+        "Home": 1.3,
+        "Draw": 2.7,
+        "Away": 3.0
+      },
+      "Asian Handicap": {
+        "Home -1": 4.66,
+        "Away -1": 5.58,
+        "Home +0.5": 4.7,
+        "Away +0.5": 3.67
+      },
+      "Total Goals": {
+        "Over 2.5": 4.4,
+        "Under 2.5": 1.54,
+        "Over 3.5": 4.23,
+        "Under 3.5": 3.26
+      },
+      "First Half Result": {
+        "Home": 2.06,
+        "Draw": 1.19,
+        "Away": 5.01
+      },
+      "BTTS": {
+        "Yes": 3.7,
+        "No": 2.17
+      }
+    }
+  },
+  {
+    "matchId": "031",
+    "match": "Barcelona vs Leicester",
+    "odds": {
+      "3Way Result": {
+        "Home": 1.27,
+        "Draw": 4.48,
+        "Away": 5.04
+      },
+      "Asian Handicap": {
+        "Home -1": 2.52,
+        "Away -1": 3.96,
+        "Home +0.5": 2.05,
+        "Away +0.5": 3.42
+      },
+      "Total Goals": {
+        "Over 2.5": 3.8,
+        "Under 2.5": 2.34,
+        "Over 3.5": 2.6,
+        "Under 3.5": 4.89
+      },
+      "First Half Result": {
+        "Home": 4.21,
+        "Draw": 3.02,
+        "Away": 1.51
+      },
+      "BTTS": {
+        "Yes": 5.64,
+        "No": 3.04
+      }
+    }
+  },
+  {
+    "matchId": "032",
+    "match": "Chelsea vs Real Madrid",
+    "odds": {
+      "3Way Result": {
+        "Home": 3.37,
+        "Draw": 4.13,
+        "Away": 3.91
+      },
+      "Asian Handicap": {
+        "Home -1": 5.91,
+        "Away -1": 3.5,
+        "Home +0.5": 3.38,
+        "Away +0.5": 5.48
+      },
+      "Total Goals": {
+        "Over 2.5": 3.33,
+        "Under 2.5": 4.26,
+        "Over 3.5": 5.43,
+        "Under 3.5": 3.03
+      },
+      "First Half Result": {
+        "Home": 4.98,
+        "Draw": 3.51,
+        "Away": 3.98
+      },
+      "BTTS": {
+        "Yes": 4.26,
+        "No": 3.06
+      }
+    }
+  },
+  {
+    "matchId": "033",
+    "match": "Leicester vs Napoli",
+    "odds": {
+      "3Way Result": {
+        "Home": 3.91,
+        "Draw": 1.5,
+        "Away": 1.79
+      },
+      "Asian Handicap": {
+        "Home -1": 5.24,
+        "Away -1": 5.87,
+        "Home +0.5": 2.24,
+        "Away +0.5": 5.76
+      },
+      "Total Goals": {
+        "Over 2.5": 1.56,
+        "Under 2.5": 4.67,
+        "Over 3.5": 5.98,
+        "Under 3.5": 1.44
+      },
+      "First Half Result": {
+        "Home": 1.28,
+        "Draw": 1.94,
+        "Away": 3.66
+      },
+      "BTTS": {
+        "Yes": 1.65,
+        "No": 5.03
+      }
+    }
+  },
+  {
+    "matchId": "034",
+    "match": "Real Madrid vs Barcelona",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.27,
+        "Draw": 1.42,
+        "Away": 1.98
+      },
+      "Asian Handicap": {
+        "Home -1": 3.24,
+        "Away -1": 2.62,
+        "Home +0.5": 1.32,
+        "Away +0.5": 5.21
+      },
+      "Total Goals": {
+        "Over 2.5": 1.41,
+        "Under 2.5": 4.48,
+        "Over 3.5": 3.88,
+        "Under 3.5": 1.81
+      },
+      "First Half Result": {
+        "Home": 4.86,
+        "Draw": 5.68,
+        "Away": 2.99
+      },
+      "BTTS": {
+        "Yes": 5.96,
+        "No": 1.65
+      }
+    }
+  },
+  {
+    "matchId": "035",
+    "match": "Porto vs Roma",
+    "odds": {
+      "3Way Result": {
+        "Home": 1.47,
+        "Draw": 3.8,
+        "Away": 4.17
+      },
+      "Asian Handicap": {
+        "Home -1": 5.06,
+        "Away -1": 2.26,
+        "Home +0.5": 5.94,
+        "Away +0.5": 2.65
+      },
+      "Total Goals": {
+        "Over 2.5": 1.18,
+        "Under 2.5": 5.39,
+        "Over 3.5": 2.56,
+        "Under 3.5": 5.09
+      },
+      "First Half Result": {
+        "Home": 2.21,
+        "Draw": 1.32,
+        "Away": 5.27
+      },
+      "BTTS": {
+        "Yes": 5.71,
+        "No": 5.54
+      }
+    }
+  },
+  {
+    "matchId": "036",
+    "match": "Juventus vs Atletico Madrid",
+    "odds": {
+      "3Way Result": {
+        "Home": 1.66,
+        "Draw": 3.89,
+        "Away": 1.26
+      },
+      "Asian Handicap": {
+        "Home -1": 4.68,
+        "Away -1": 2.66,
+        "Home +0.5": 5.0,
+        "Away +0.5": 4.97
+      },
+      "Total Goals": {
+        "Over 2.5": 3.32,
+        "Under 2.5": 5.75,
+        "Over 3.5": 2.73,
+        "Under 3.5": 5.12
+      },
+      "First Half Result": {
+        "Home": 3.15,
+        "Draw": 3.6,
+        "Away": 2.82
+      },
+      "BTTS": {
+        "Yes": 3.85,
+        "No": 1.48
+      }
+    }
+  },
+  {
+    "matchId": "037",
+    "match": "Leicester vs Arsenal",
+    "odds": {
+      "3Way Result": {
+        "Home": 3.27,
+        "Draw": 4.39,
+        "Away": 2.3
+      },
+      "Asian Handicap": {
+        "Home -1": 2.19,
+        "Away -1": 3.65,
+        "Home +0.5": 5.06,
+        "Away +0.5": 3.89
+      },
+      "Total Goals": {
+        "Over 2.5": 5.06,
+        "Under 2.5": 4.46,
+        "Over 3.5": 3.67,
+        "Under 3.5": 1.67
+      },
+      "First Half Result": {
+        "Home": 3.59,
+        "Draw": 3.87,
+        "Away": 5.6
+      },
+      "BTTS": {
+        "Yes": 4.42,
+        "No": 5.5
+      }
+    }
+  },
+  {
+    "matchId": "038",
+    "match": "Manchester City vs Bayern Munich",
+    "odds": {
+      "3Way Result": {
+        "Home": 4.31,
+        "Draw": 5.66,
+        "Away": 3.68
+      },
+      "Asian Handicap": {
+        "Home -1": 2.14,
+        "Away -1": 2.76,
+        "Home +0.5": 4.27,
+        "Away +0.5": 2.8
+      },
+      "Total Goals": {
+        "Over 2.5": 1.4,
+        "Under 2.5": 3.47,
+        "Over 3.5": 4.06,
+        "Under 3.5": 1.63
+      },
+      "First Half Result": {
+        "Home": 2.54,
+        "Draw": 1.62,
+        "Away": 4.01
+      },
+      "BTTS": {
+        "Yes": 5.46,
+        "No": 1.74
+      }
+    }
+  },
+  {
+    "matchId": "039",
+    "match": "Manchester United vs Roma",
+    "odds": {
+      "3Way Result": {
+        "Home": 3.31,
+        "Draw": 5.44,
+        "Away": 2.14
+      },
+      "Asian Handicap": {
+        "Home -1": 2.4,
+        "Away -1": 1.86,
+        "Home +0.5": 1.76,
+        "Away +0.5": 2.29
+      },
+      "Total Goals": {
+        "Over 2.5": 4.71,
+        "Under 2.5": 4.66,
+        "Over 3.5": 3.18,
+        "Under 3.5": 4.97
+      },
+      "First Half Result": {
+        "Home": 1.32,
+        "Draw": 2.17,
+        "Away": 2.1
+      },
+      "BTTS": {
+        "Yes": 2.45,
+        "No": 2.05
+      }
+    }
+  },
+  {
+    "matchId": "040",
+    "match": "Chelsea vs Leicester",
+    "odds": {
+      "3Way Result": {
+        "Home": 3.91,
+        "Draw": 4.12,
+        "Away": 3.02
+      },
+      "Asian Handicap": {
+        "Home -1": 3.04,
+        "Away -1": 3.81,
+        "Home +0.5": 2.25,
+        "Away +0.5": 2.1
+      },
+      "Total Goals": {
+        "Over 2.5": 4.86,
+        "Under 2.5": 1.96,
+        "Over 3.5": 2.96,
+        "Under 3.5": 3.72
+      },
+      "First Half Result": {
+        "Home": 5.03,
+        "Draw": 3.96,
+        "Away": 5.01
+      },
+      "BTTS": {
+        "Yes": 2.07,
+        "No": 3.43
+      }
+    }
+  },
+  {
+    "matchId": "041",
+    "match": "Arsenal vs Leicester",
+    "odds": {
+      "3Way Result": {
+        "Home": 1.59,
+        "Draw": 2.18,
+        "Away": 4.12
+      },
+      "Asian Handicap": {
+        "Home -1": 3.13,
+        "Away -1": 3.63,
+        "Home +0.5": 3.78,
+        "Away +0.5": 4.47
+      },
+      "Total Goals": {
+        "Over 2.5": 4.74,
+        "Under 2.5": 2.68,
+        "Over 3.5": 5.26,
+        "Under 3.5": 3.04
+      },
+      "First Half Result": {
+        "Home": 1.42,
+        "Draw": 2.28,
+        "Away": 1.76
+      },
+      "BTTS": {
+        "Yes": 3.21,
+        "No": 4.76
+      }
+    }
+  },
+  {
+    "matchId": "042",
+    "match": "PSG vs Napoli",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.22,
+        "Draw": 5.78,
+        "Away": 1.73
+      },
+      "Asian Handicap": {
+        "Home -1": 5.6,
+        "Away -1": 2.08,
+        "Home +0.5": 3.02,
+        "Away +0.5": 1.63
+      },
+      "Total Goals": {
+        "Over 2.5": 4.38,
+        "Under 2.5": 2.01,
+        "Over 3.5": 2.1,
+        "Under 3.5": 4.8
+      },
+      "First Half Result": {
+        "Home": 5.51,
+        "Draw": 1.67,
+        "Away": 2.92
+      },
+      "BTTS": {
+        "Yes": 5.65,
+        "No": 2.43
+      }
+    }
+  },
+  {
+    "matchId": "043",
+    "match": "Manchester United vs Roma",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.98,
+        "Draw": 4.52,
+        "Away": 5.27
+      },
+      "Asian Handicap": {
+        "Home -1": 2.21,
+        "Away -1": 1.31,
+        "Home +0.5": 5.79,
+        "Away +0.5": 4.89
+      },
+      "Total Goals": {
+        "Over 2.5": 2.78,
+        "Under 2.5": 3.57,
+        "Over 3.5": 1.36,
+        "Under 3.5": 5.15
+      },
+      "First Half Result": {
+        "Home": 3.99,
+        "Draw": 4.63,
+        "Away": 3.69
+      },
+      "BTTS": {
+        "Yes": 5.09,
+        "No": 2.91
+      }
+    }
+  },
+  {
+    "matchId": "044",
+    "match": "Tottenham vs Atletico Madrid",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.7,
+        "Draw": 4.93,
+        "Away": 2.15
+      },
+      "Asian Handicap": {
+        "Home -1": 4.51,
+        "Away -1": 2.98,
+        "Home +0.5": 5.59,
+        "Away +0.5": 5.52
+      },
+      "Total Goals": {
+        "Over 2.5": 1.34,
+        "Under 2.5": 3.25,
+        "Over 3.5": 1.2,
+        "Under 3.5": 3.59
+      },
+      "First Half Result": {
+        "Home": 3.63,
+        "Draw": 1.96,
+        "Away": 2.73
+      },
+      "BTTS": {
+        "Yes": 5.09,
+        "No": 2.45
+      }
+    }
+  },
+  {
+    "matchId": "045",
+    "match": "Liverpool vs Chelsea",
+    "odds": {
+      "3Way Result": {
+        "Home": 3.51,
+        "Draw": 3.52,
+        "Away": 3.56
+      },
+      "Asian Handicap": {
+        "Home -1": 4.2,
+        "Away -1": 2.83,
+        "Home +0.5": 1.14,
+        "Away +0.5": 4.89
+      },
+      "Total Goals": {
+        "Over 2.5": 1.55,
+        "Under 2.5": 5.28,
+        "Over 3.5": 5.9,
+        "Under 3.5": 1.86
+      },
+      "First Half Result": {
+        "Home": 5.2,
+        "Draw": 2.57,
+        "Away": 3.02
+      },
+      "BTTS": {
+        "Yes": 3.03,
+        "No": 4.73
+      }
+    }
+  },
+  {
+    "matchId": "046",
+    "match": "Ajax vs PSG",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.92,
+        "Draw": 3.49,
+        "Away": 1.84
+      },
+      "Asian Handicap": {
+        "Home -1": 2.28,
+        "Away -1": 4.5,
+        "Home +0.5": 5.91,
+        "Away +0.5": 1.36
+      },
+      "Total Goals": {
+        "Over 2.5": 2.75,
+        "Under 2.5": 1.21,
+        "Over 3.5": 1.54,
+        "Under 3.5": 5.18
+      },
+      "First Half Result": {
+        "Home": 4.85,
+        "Draw": 2.35,
+        "Away": 1.13
+      },
+      "BTTS": {
+        "Yes": 1.48,
+        "No": 1.62
+      }
+    }
+  },
+  {
+    "matchId": "047",
+    "match": "Napoli vs Manchester United",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.68,
+        "Draw": 5.68,
+        "Away": 3.61
+      },
+      "Asian Handicap": {
+        "Home -1": 2.91,
+        "Away -1": 3.65,
+        "Home +0.5": 5.31,
+        "Away +0.5": 3.51
+      },
+      "Total Goals": {
+        "Over 2.5": 2.16,
+        "Under 2.5": 4.55,
+        "Over 3.5": 5.58,
+        "Under 3.5": 2.69
+      },
+      "First Half Result": {
+        "Home": 1.41,
+        "Draw": 1.14,
+        "Away": 2.42
+      },
+      "BTTS": {
+        "Yes": 5.15,
+        "No": 5.26
+      }
+    }
+  },
+  {
+    "matchId": "048",
+    "match": "Napoli vs Inter Milan",
+    "odds": {
+      "3Way Result": {
+        "Home": 5.17,
+        "Draw": 5.84,
+        "Away": 4.27
+      },
+      "Asian Handicap": {
+        "Home -1": 3.27,
+        "Away -1": 1.32,
+        "Home +0.5": 4.86,
+        "Away +0.5": 4.01
+      },
+      "Total Goals": {
+        "Over 2.5": 3.74,
+        "Under 2.5": 4.18,
+        "Over 3.5": 5.47,
+        "Under 3.5": 5.83
+      },
+      "First Half Result": {
+        "Home": 5.62,
+        "Draw": 4.05,
+        "Away": 5.39
+      },
+      "BTTS": {
+        "Yes": 3.69,
+        "No": 2.8
+      }
+    }
+  },
+  {
+    "matchId": "049",
+    "match": "Porto vs Leicester",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.09,
+        "Draw": 4.65,
+        "Away": 2.04
+      },
+      "Asian Handicap": {
+        "Home -1": 4.57,
+        "Away -1": 5.77,
+        "Home +0.5": 2.86,
+        "Away +0.5": 5.97
+      },
+      "Total Goals": {
+        "Over 2.5": 3.46,
+        "Under 2.5": 5.66,
+        "Over 3.5": 2.22,
+        "Under 3.5": 5.09
+      },
+      "First Half Result": {
+        "Home": 3.99,
+        "Draw": 3.52,
+        "Away": 5.38
+      },
+      "BTTS": {
+        "Yes": 3.92,
+        "No": 2.51
+      }
+    }
+  },
+  {
+    "matchId": "050",
+    "match": "Leicester vs Bayern Munich",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.05,
+        "Draw": 2.6,
+        "Away": 2.12
+      },
+      "Asian Handicap": {
+        "Home -1": 3.57,
+        "Away -1": 2.92,
+        "Home +0.5": 1.15,
+        "Away +0.5": 1.38
+      },
+      "Total Goals": {
+        "Over 2.5": 3.73,
+        "Under 2.5": 5.14,
+        "Over 3.5": 1.72,
+        "Under 3.5": 1.77
+      },
+      "First Half Result": {
+        "Home": 4.75,
+        "Draw": 4.04,
+        "Away": 2.55
+      },
+      "BTTS": {
+        "Yes": 1.27,
+        "No": 2.91
       }
     }
   }
