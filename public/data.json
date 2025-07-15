@@ -1,0 +1,158 @@
+[
+  {
+    "matchId": "001",
+    "match": "Philadelphia Phillies vs Atlanta Braves",
+    "odds": {
+      "3Way Result": {
+        "Home": 1.82,
+        "Draw": 8.00,
+        "Away": 2.22
+      },
+      "Asian Handicap First Half": {
+        "Home -1": 4.55,
+        "Away -1": 1.13,
+        "Home +0": 1.41,
+        "Away +0": 2.60
+      }
+    }
+  },
+  {
+    "matchId": "002",
+    "match": "Liverpool vs Manchester United",
+    "odds": {
+      "3Way Result": {
+        "Home": 1.65,
+        "Draw": 4.20,
+        "Away": 3.80
+      },
+      "Total - Away": {
+        "Over 1.5": 2.67,
+        "Under 1.5": 1.38,
+        "Over 2": 5.50,
+        "Under 2": 1.08
+      }
+    }
+  },
+  {
+    "matchId": "003",
+    "match": "Barcelona vs Real Madrid",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.10,
+        "Draw": 3.60,
+        "Away": 2.80
+      },
+      "Asian Handicap First Half": {
+        "Home -0.25": 1.95,
+        "Away +0.25": 1.95
+      }
+    }
+  },
+  {
+    "matchId": "004",
+    "match": "Bayern Munich vs Dortmund",
+    "odds": {
+      "3Way Result": {
+        "Home": 1.55,
+        "Draw": 4.50,
+        "Away": 4.80
+      },
+      "Handicap Result 1st Half": {
+        "Home -1": 5.90,
+        "Away -1": 1.49,
+        "Draw": 3.38
+      }
+    }
+  },
+  {
+    "matchId": "005",
+    "match": "Chelsea vs Arsenal",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.30,
+        "Draw": 3.10,
+        "Away": 2.40
+      },
+      "Total - Away": {
+        "Over 1": 1.78,
+        "Under 1": 1.88
+      }
+    }
+  },
+  {
+    "matchId": "006",
+    "match": "Juventus vs Inter Milan",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.05,
+        "Draw": 3.25,
+        "Away": 3.10
+      },
+      "Asian Handicap First Half": {
+        "Home +0.25": 1.85,
+        "Away -0.25": 2.00
+      }
+    }
+  },
+  {
+    "matchId": "007",
+    "match": "PSG vs Marseille",
+    "odds": {
+      "3Way Result": {
+        "Home": 1.45,
+        "Draw": 4.80,
+        "Away": 6.00
+      },
+      "Handicap Result 1st Half": {
+        "Home -1": 3.50,
+        "Draw": 2.90,
+        "Away -1": 2.10
+      }
+    }
+  },
+  {
+    "matchId": "008",
+    "match": "Ajax vs Feyenoord",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.00,
+        "Draw": 3.20,
+        "Away": 3.50
+      },
+      "Asian Handicap First Half": {
+        "Home -0.5": 2.00,
+        "Away +0.5": 1.85
+      }
+    }
+  },
+  {
+    "matchId": "009",
+    "match": "AC Milan vs Napoli",
+    "odds": {
+      "3Way Result": {
+        "Home": 2.25,
+        "Draw": 3.10,
+        "Away": 2.90
+      },
+      "Total - Away": {
+        "Over 1.5": 2.70,
+        "Under 1.5": 1.30
+      }
+    }
+  },
+  {
+    "matchId": "010",
+    "match": "Tottenham vs Manchester City",
+    "odds": {
+      "3Way Result": {
+        "Home": 3.10,
+        "Draw": 3.50,
+        "Away": 1.90
+      },
+      "Asian Handicap First Half": {
+        "Home +0.5": 1.60,
+        "Away -0.5": 2.30
+      }
+    }
+  }
+]
