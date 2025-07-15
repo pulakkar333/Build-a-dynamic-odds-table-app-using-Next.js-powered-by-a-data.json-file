@@ -23,3 +23,20 @@ This is a football match odds viewer built with **Next.js**. It reads odds data 
 
 ## 📁 Project Structure
 
+/public/data.json ← Match odds data
+/pages/index.js ← Main logic (search, display)
+
+🛠️ Getting Started
+Clone the project
+
+
+git clone https://github.com/your-username/odds-app.git
+cd odds-app
+Install dependencies
+
+
+npm install
+Run the app
+
+
+npm run dev
